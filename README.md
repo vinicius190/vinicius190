@@ -1,7 +1,6 @@
-<div style="background-color: red">
-  <h3 style="text-align:'center'">Welcome to my profile!</h3>
-</div>
-<div style="display: inline_block"><br>
+
+
+<div><br>
   <img align="center" alt="Lima-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Lima-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Lima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
